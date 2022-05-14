@@ -2,7 +2,7 @@
 
 TCP是面向连接的单播协议
 
-![image-20220309002218930](https://gitee.com/sakuryu/img-bed/raw/master/img/image-20220309002218930.png)
+![image-20220513200828215](https://cdn.konyue.site/image-20220513200828215.png)
 
 ## 第一次握手
 
@@ -30,5 +30,5 @@ TCP通过滑动窗口的概念来进行流量控制。设想在**发送端发送
 
 发生在断开连接的时候，TCP连接时，建立的连接是双向的，在断开的时候需要双向断开
 
-![image-20220309202208893](https://gitee.com/sakuryu/img-bed/raw/master/img/image-20220309202208893.png)
+![image-20220513200841678](https://cdn.konyue.site/image-20220513200841678.png)
 

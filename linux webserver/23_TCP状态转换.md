@@ -1,6 +1,6 @@
 # TCP状态转换
 
-![image-20220310203758798](https://gitee.com/sakuryu/img-bed/raw/master/img/image-20220310203758798.png)
+![image-20220513200637522](https://cdn.konyue.site/image-20220513200637522.png)
 
 ## CLOSED
 

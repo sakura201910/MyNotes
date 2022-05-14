@@ -40,7 +40,7 @@ TCP:传输控制协议，面向连接的，可靠的,基于字节流，仅支持
     - 发送数据
 4. 通信结束，断开连接
 
-![TCP通信流程](https://gitee.com/sakuryu/img-bed/raw/master/img/image-20220306170712154.png)
+![image-20220513201046116](https://cdn.konyue.site/image-20220513201046116.png)
 
 # 套接字函数
 

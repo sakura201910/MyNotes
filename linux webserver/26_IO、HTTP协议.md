@@ -14,7 +14,7 @@
 - 同步：程序主动搬数据到自己的缓冲区中
 - 异步：程序告知内核将数据搬到哪儿，以及通知方式，然后程序可以去做别的事，由内核搬运数据
 
-![image-20220313170929296](https://gitee.com/sakuryu/img-bed/raw/master/img/image-20220313170929296.png)
+![image-20220513200335571](https://cdn.konyue.site/image-20220513200335571.png)
 
 > 同步表示A向B请求调用一个网络IO接口时（或者调用某个业务逻辑API接口时)，数据的读写都是由请求方A自己来完成的(不管是阻塞还是非阻塞)﹔异步表示A向B请求调用一个网络IO接口时(或者调用某个业务逻辑API接口时)，向B传入请求的事件以及事件发生时通知的方式，A就可以处理其它逻辑了，当B监听到事件处理完成后，会用事先约定好的通知方式，通知A处理结果。
 
@@ -38,11 +38,11 @@ IO复用
 
 ## HTTP请求报文格式
 
-![image-20220313173043026](https://gitee.com/sakuryu/img-bed/raw/master/img/image-20220313173043026.png)
+![image-20220513200406606](https://cdn.konyue.site/image-20220513200406606.png)
 
 ## HTTP相应报文格式
 
-![image-20220313173449161](https://gitee.com/sakuryu/img-bed/raw/master/img/image-20220313173449161.png)
+![image-20220513200422901](https://cdn.konyue.site/image-20220513200422901.png)
 
 ## HTTP的五大特点
 
